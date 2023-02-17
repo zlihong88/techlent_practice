@@ -1,7 +1,7 @@
 class Calculator():
     def add(self, num1, num2):
-       # return num1+num2
-        return 2
+        return num1+num2
+    
     def devide(self, num1, num2):
         if num2 == 0:
             return 0
