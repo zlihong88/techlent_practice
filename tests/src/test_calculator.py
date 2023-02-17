@@ -12,3 +12,4 @@ def test_subtract():
 
 def test_devide():
     assert cal.devide(6,2) == 3
+    assert cal.devide(4,2) == 2
